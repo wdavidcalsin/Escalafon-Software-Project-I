@@ -1,0 +1,32 @@
+[33mcommit 664103a12d45d182ab4ce788753ee1295ebbce08[m[33m ([m[1;36mHEAD -> [m[1;32mdavid-advance[m[33m, [m[1;31morigin/david-advance[m[33m)[m
+Author: Willian David Calsin <david2c142@gmail.com>
+Date:   Thu Sep 15 21:36:39 2022 -0500
+
+    advance mail
+
+[33mcommit f907a8a645c71b3c4d05d31a88b9cc1b11ad7cbb[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: ed7b2d0 9cad23e
+Author: Willian David Calsin <wdavidcalsin968@gmail.com>
+Date:   Tue Sep 6 09:13:51 2022 -0500
+
+    Merge pull request #1 from wdavidcalsin/login-and-register
+    
+    Login and register
+
+[33mcommit 9cad23e65186363fe418748befecb59506a0a8ee[m[33m ([m[1;31morigin/login-and-register[m[33m)[m
+Author: WDavid <wdavidcalsin968@gmail.com>
+Date:   Mon Sep 5 00:47:51 2022 -0500
+
+    refactor readme.md
+
+[33mcommit 1e20e630aab8075c9a7936c917a6b95cea8104f0[m
+Author: WDavid <wdavidcalsin968@gmail.com>
+Date:   Mon Sep 5 00:44:42 2022 -0500
+
+    add login and register
+
+[33mcommit ed7b2d0f01134b905f2f3fd0d69f568e08bf40d8[m
+Author: Willian David Calsin <david2c142@gmail.com>
+Date:   Fri Sep 2 10:31:28 2022 -0500
+
+    inicio de proyecto
